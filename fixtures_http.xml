@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<match_list date_generated="2019-03-20T13:48:43.349Z" xmlns="http://rball.com/eventpusher/data/xmlbeans">
+  <match game_id="1115929" date="2019-03-20T09:35:00.000Z" team1="OAKLAND ATHLETICS" team1_id="49276" team2="SEATTLE MARINERS" team2_id="49281" league="MLB Regular Season" league_id="7929" country1="North/Central America" country1_id="104" country2="North/Central America" country2_id="104" neutralvenue="false" stadium="Oakland-Alameda County Coliseum" stadium_id="37723" coverage="TV" coverage_id="1" playstate="Finished" playstate_id="1" scout_confirmed="true" league_country="USA" league_country_id="9" booked="true" iso="USA" odds_available="false" live_odds_available="false" league_halftime_duration="0" league_overtime_duration="0" league_has_penalty_shootout="false" league_has_player_data="true" sportId="17" sportname="Baseball" homeAdvantageId="1" homeAdvantage="contestant 1"/>
+</match_list>
